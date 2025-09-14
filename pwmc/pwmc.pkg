@@ -1,5 +1,7 @@
-D 'theilr2': Theil R2 Multicollinearity Effect Use theilr2 With STATA 19
+D 'pwmc': Pairwise multiple comparisons of means with unequal variances Use pwmc With STATA 19
 D
-F theilr2.ado
-F theilr2.sthlp
-F theilr2.dlg
+F pwmc.ado
+F pwmc.sthlp
+F pwmc_version.ado
+F pwmci.ado
+F pwmci.sthlp
