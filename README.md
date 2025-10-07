@@ -1,6 +1,8 @@
 # pwmc
 Pairwise multiple comparisons of means with unequal variances Use pwmc With STATA 19
 
+https://www.youtube.com/watch?v=VT8VhnpFAb0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
